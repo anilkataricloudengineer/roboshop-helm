@@ -6,6 +6,3 @@ service:
   type: LoadBalancer
 
 env: dev
-
-deployment:
-  replicas: 1
