@@ -3,4 +3,8 @@ env: dev
 
 dbJob:
   enabled: true
+  jobName:
+    - file: master-data.js
+      name: master-data
+
 
